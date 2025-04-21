@@ -1,1 +1,5 @@
 lawyerchatbotenv
+vectrostore
+pdfs
+__pycache__
+.env
