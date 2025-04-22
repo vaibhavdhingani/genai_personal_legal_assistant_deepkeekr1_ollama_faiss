@@ -1,6 +1,6 @@
 ## GenerativeAI Lawyer [DeepSeek R1 + Ollama + FAISS]
-Your personal legal AI assistant !!
-Customers - Say goodbye to expensive legal consultation, long waits for appointments, and confusing legal texts. 
+Your personal legal AI assistant !!<br>
+Customers - Say goodbye to expensive legal consultation, long waits for appointments, and confusing legal texts. <br>
 Laywers - Say goodbye to routine tasks. AI Lawyer automate your legal research and paperwork, granting you more free time.
 
 
@@ -53,6 +53,6 @@ open http://localhost:8501
 - GROQ
 - Streamlit
 
-
-![alt text](GenAILawyerUI_DocReview.jpg)
+<br><br>
+![alt text](GenAILawyerUI_DocReview.jpg)<br><br>
 ![alt text](GenAILawyerUI_LegalAnalysis.jpg)
